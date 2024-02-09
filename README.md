@@ -1,2 +1,2 @@
 # SVN-to-Git
-author sanket.
+Author sanket Jagtap
