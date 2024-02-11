@@ -1,0 +1,3 @@
+[submodule "SVN-to-Git"]
+	path = SVN-to-Git
+	url = https://github.com/SANKET02011996/SVN-to-Git.git.
